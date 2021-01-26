@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="resultTextView">text view</string>
+    <string name="playAgainButton">Play Again</string>
+    <string name="player_1">Player 1</string>
+    <string name="score">0</string>
+    <string name="player_2">Player 2</string>
+    <string name="single_player">Single player</string>
+    <string name="multy_player">Multy Player</string>
+    <string name="slogan">Let\'s Play Together</string>
+    <string name="winner_tagline">has Won!</string>
+    <string name="single_player_notavailable">This feature is not available now, it will be added in later version</string>
+</resources>
